@@ -1,7 +1,7 @@
 # sleep_deprivation-HSI
 
 
-* `SPARK_fMRI_HDI.m` performs the following analysis: 
+* `SPARK_fMRI_HSI.m` performs the following analysis: 
 
          STEP 1. xxx
          STEP 2. xxx
